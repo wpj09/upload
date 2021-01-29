@@ -24,12 +24,12 @@ class InstalledVersions
 private static $installed = array (
   'root' => 
   array (
-    'pretty_version' => '1.0.0+no-version-set',
-    'version' => '1.0.0.0',
+    'pretty_version' => 'dev-master',
+    'version' => 'dev-master',
     'aliases' => 
     array (
     ),
-    'reference' => NULL,
+    'reference' => '6bc1eb5d551a47d243aa72338d0c0e3141faeff8',
     'name' => 'wpj09/upload',
   ),
   'versions' => 
@@ -45,12 +45,12 @@ private static $installed = array (
     ),
     'wpj09/upload' => 
     array (
-      'pretty_version' => '1.0.0+no-version-set',
-      'version' => '1.0.0.0',
+      'pretty_version' => 'dev-master',
+      'version' => 'dev-master',
       'aliases' => 
       array (
       ),
-      'reference' => NULL,
+      'reference' => '6bc1eb5d551a47d243aa72338d0c0e3141faeff8',
     ),
   ),
 );
