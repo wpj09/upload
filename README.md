@@ -1,10 +1,10 @@
 <h1 align="center">Upload de arquivos</h1>
 
-##Visão geral
+## Visão geral
 
 Projeto devenvolvido através de um desafio proposto pelo professor da disciplina de **PROGRAMAÇÃO IV**
 
-##Como utilizar
+## Como utilizar
 
 - Para a sua utilização precisa-se da instalação do [XAMPP](https://www.apachefriends.org/pt_br/index.html) em sua máquina.
 - Clone meu [repositório](https://github.com/wpj09/upload). Para a pasta do xampp/htdocs.
